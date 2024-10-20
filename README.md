@@ -1,11 +1,11 @@
 # Merhaba, Ben Rafi Arzupınar! 👋
 
-27 yaşında bir yazılım geliştirici olarak teknolojiye olan ilgim ve kendimi sürekli geliştirme tutkumla **fullstack** alanında çalışıyorum. İstanbul Zeytinburnu'nda yaşıyorum ve yazılım dünyasında 2 yıllık profesyonel deneyime sahibim. Tasarım ve yazılımın buluştuğu projelerde yer almayı seviyorum.
+27 yaşında bir yazılım geliştirici olarak teknolojiye olan ilgim ve kendimi sürekli geliştirme tutkumla **fullstack** alanında çalışıyorum. İstanbul Zeytinburnu'nda yaşıyorum ve yazılım dünyasında 4 yıllık profesyonel deneyime sahibim. Tasarım ve yazılımın buluştuğu projelerde yer almayı seviyorum.
 
 ## Hakkımda
 
 - 🌍 **Yaşadığım Yer:** İstanbul, Zeytinburnu
-- 💼 **İş Tecrübesi:** 2 yıl fullstack yazılımcı
+- 💼 **İş Tecrübesi:** 4 yıl fullstack yazılımcı
 - 💻 **Yazılım Tarafında Kullandığım Teknolojiler:**
   - HTML, CSS, Bootstrap, Tailwind, Sass
   - JavaScript, React, TypeScript, Next.js
